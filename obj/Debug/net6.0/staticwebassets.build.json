@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y9IF/eh9X5Y++OXRmKcdH6TwCSzeBGZzgmDoDGHXiOk=",
+  "Source": "csharp-crud",
+  "BasePath": "_content/csharp-crud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
