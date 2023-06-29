@@ -72,6 +72,8 @@ public class UsersController : ControllerBase
     }
 
     /* delete api/users/5 */
+    [HttpDelete("{id}")]
+    
     public async Task<IActionResult> DeleteUser(int id)
     {
         /* find the user id before delete */
